@@ -1,12 +1,12 @@
 {
-  "name": "AFK Bot",
+  "name": "NOOBot",
   "bot-account": {
-    "username": "Technoblade",
+    "username": "NOOBOT",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobos13.aternos.me",
+    "ip": "G77SMP.aternos.me",
     "port": 29195,
     "version": "1.21.1"
   },
@@ -30,9 +30,9 @@
       "repeat": true,
       "repeat-delay": 500,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "I'm a PRO player",
+        "HI WHERE ARE YOU NOOBS!",
+        "I like to KILL PLAYERS!"
       ]
     },
     "chat-log": true,
