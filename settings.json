@@ -28,7 +28,7 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 500,
+      "repeat-delay": 100,
       "messages": [
         "I'm a PRO player",
         "HI WHERE ARE YOU NOOBS!",
@@ -38,7 +38,7 @@
     "chat-log": true,
     "auto-reconnect": true,
     "auto-reconnect-delay": 2000,
-    "max-reconnect-delay": 20000,
+    "max-reconnect-delay": 2000,
     "periodic-rejoin": {
       "enabled": true,
       "min-interval": 20,
@@ -54,11 +54,11 @@
     },
     "look-around": {
       "enabled": true,
-      "interval": 5000
+      "interval": 500
     },
     "random-jump": {
       "enabled": true,
-      "interval": 10000
+      "interval": 1000
     }
   },
   "modules": {
