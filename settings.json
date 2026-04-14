@@ -30,15 +30,15 @@
       "repeat": true,
       "repeat-delay": 100,
       "messages": [
-        "I'm a PRO player",
-        "HI WHERE ARE YOU NOOBS!",
-        "I like to KILL PLAYERS!"
+        "I said that I'm a PRO player",
+        "are you reading this? then you are a noob ",
+        "OK I WILL REPEAT MY MSG !!!"
       ]
     },
     "chat-log": true,
     "auto-reconnect": true,
-    "auto-reconnect-delay": 2000,
-    "max-reconnect-delay": 2000,
+    "auto-reconnect-delay": 1000,
+    "max-reconnect-delay": 120000,
     "periodic-rejoin": {
       "enabled": true,
       "min-interval": 20,
