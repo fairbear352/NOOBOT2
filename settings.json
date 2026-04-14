@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "G77SMP.aternos.me",
+    "ip": "G77SMP.aternos.me:29886",
     "port": 29886,
-    "version": "1.21.1"
+    "version": "26.1.2"
   },
   "position": {
     "enabled": true,
